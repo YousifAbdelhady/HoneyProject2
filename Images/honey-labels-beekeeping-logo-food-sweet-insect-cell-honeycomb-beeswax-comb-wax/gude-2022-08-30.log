@@ -1,0 +1,4 @@
+14:08:50:120 [WARN]	proxy setting delay exceeds threshold: 0.618787 secs
+17:26:24:227 [WARN]	proxy setting delay exceeds threshold: 4.040712 secs
+22:25:49:353 [WARN]	proxy setting delay exceeds threshold: 7.923281 secs
+22:25:57:328 [WARN]	Request Failed. ErrorCode: 112007 errorMessage: Platform Status, Send Request Failed. WinHTTP Name Not Resolved. last error code = 12007 
