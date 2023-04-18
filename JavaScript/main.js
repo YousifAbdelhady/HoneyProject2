@@ -1,11 +1,11 @@
-// // Button toggle
+// Button toggle
 
-// let navBtn = document.querySelector(".header .nav-box");
-// let menueList = document.querySelector(".header .new");
+let navBtn = document.querySelector(".header .nav-box");
+let menueList = document.querySelector(".header .new");
 
-// navBtn.addEventListener('click', () => {
-//   menueList.classList.toggle('clicked');
-// })
+navBtn.addEventListener('click', () => {
+  menueList.classList.toggle('clicked');
+})
 
 // function removeClass() {
 //   menueList.classList.remove('clicked');
